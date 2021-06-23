@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'bottle-pandas-app'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_de08401d3b54446abef1528290b3d7df }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_738e64e5a30a4feabc05c947985005ab }}
